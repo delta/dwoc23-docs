@@ -13,12 +13,12 @@ const config = {
   url: "https://delta.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/dwoc-faq/",
+  baseUrl: "/dwoc23-docs",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "delta", // Usually your GitHub org/user name.
-  projectName: "dwoc-faq", // Usually your repo name.
+  projectName: "dwoc23-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
