@@ -1,0 +1,18 @@
+.pagination-nav__link {
+  z-index: 100;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  /* background: #ebf4f6; */
+  backdrop-filter: blur(14px);
+  transition: all 0.2s ease-in-out;
+}
+
+.pagination-nav__link:hover {
+  background: #24242420;
+}
+.pagination-nav__link--prev:hover {
+  transform: translateX(-5px) translateY(3px);
+}
+.pagination-nav__link--next:hover {
+  transform: translateX(5px) translateY(3px);
+}
